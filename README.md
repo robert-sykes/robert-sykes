@@ -2,7 +2,7 @@
 - 💼 Lead developer at Salesfire
 - 👁️ Volunteer at Focus on Vision CIC
 - 👔 Full-stack web developer
-- 🖥️ MacOS, Windows
+- 🖥️ MacOS
 
 ### ⚡ Languages I use
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
