@@ -1,7 +1,7 @@
 ### :book: About Me
 - 💼 Lead developer at Salesfire
-- 🖥️ MacOS, Windows
 - 👔 Full-stack web developer
+- 🖥️ MacOS, Windows
 
 ### ⚡ Technologies I use
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
