@@ -11,6 +11,7 @@
 ![VueJS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=Vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
