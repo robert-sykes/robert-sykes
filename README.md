@@ -2,7 +2,6 @@
 - 💼 Lead developer at Salesfire
 - 🖥️ MacOS, Windows
 - 👔 Full-stack web developer
-- 🔴 Not open for recruitment
 
 ### ⚡ Technologies I use
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
