@@ -11,15 +11,20 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 
-### 💙 Frameswork I love 
+### 💙 Frameworks I love 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 ![VueJS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=Next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
 
-### 🙏 Tools I can't live without
+### 🔨 Apps I utilise
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+### 🙏 Tools I can't live without
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-black?style=flat-square&logo=phpstorm)
+![GitKraken](https://img.shields.io/badge/-GitKraken-black?style=flat-square&logo=gitkraken)
+![TablePlus](https://img.shields.io/badge/-TablePlus-black?style=flat-square&logo=TablePlus)
