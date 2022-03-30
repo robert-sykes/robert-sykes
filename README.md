@@ -1,5 +1,6 @@
 ### :book: About Me
 - 💼 Lead developer at Salesfire
+- 👁️ Volunteer at Focus on Vision CIC
 - 👔 Full-stack web developer
 - 🖥️ MacOS, Windows
 
